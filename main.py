@@ -2,7 +2,7 @@
 from k4.utils.core import *
 
 command_line_args = {
-    'paths':'Desktop',
+    'paths':opjD(),
     'file_types':'jpg,jpeg,JPG,JPEG,png,PNG',
     'extent':256,
     'extent2': 512,
